@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://n0mchen.github.io/vermieter-paket/sitemap.xml
