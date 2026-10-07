@@ -15,3 +15,5 @@ https://n0mchen.github.io/vermieter-paket/ratgeber/kautionsabrechnung.html
 https://n0mchen.github.io/vermieter-paket/ratgeber/anlage-v-vermietung.html
 https://n0mchen.github.io/vermieter-paket/ratgeber/mietrendite-berechnen.html
 https://n0mchen.github.io/vermieter-paket/komplettpaket.html
+https://n0mchen.github.io/vermieter-paket/ratgeber/indexmiete-berechnen.html
+https://n0mchen.github.io/vermieter-paket/ratgeber/mieterselbstauskunft.html
